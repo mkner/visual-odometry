@@ -1,6 +1,6 @@
-# Visual Odometry for Localization in Autonomous Driving
+## Visual Odometry for Localization in Autonomous Driving
 
-### Feature Detection, Description, Matching and Trajectory Generation with a comparison of transformation reconstruction methods for optimal path estimates
+#### Feature Detection, Description, Matching and Trajectory Generation with a comparison of transformation reconstruction methods for optimal path estimates
 
 
 
