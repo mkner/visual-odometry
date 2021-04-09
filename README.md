@@ -24,3 +24,6 @@ The Jupyter notebook covers these areas:
 - Plot out results for EMD, PnP, and PnP-RANSAC for both filtered and unflitered feature matching
 - Compare results to find the best method
 - Observations
+
+
+This project is partially derived from a project in the University Of Tornoto course "Visual Perception for Self-Driving Cars"
