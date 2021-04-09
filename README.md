@@ -11,7 +11,7 @@ Reconstruction of the transform between consecutive images consisting of a rotat
 A comparison of the trajectory results using EMD, PnP, and PnP-RANSAC
 with both distance filtered and unflitered feature matches between images is done with visual plots of the trajectories.
 
-The Jupyter notebook is structured as follows:
+The Jupyter notebook covers these areas:
 
 - Explore the image set, depth maps, and intrinsic camera parameters
 - Compare RGB and grayscale images
@@ -24,4 +24,3 @@ The Jupyter notebook is structured as follows:
 - Plot out results for EMD, PnP, and PnP-RANSAC for both filtered and unflitered feature matching
 - Compare results to find the best method
 - Observations
-- 
