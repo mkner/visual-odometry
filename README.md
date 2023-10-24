@@ -32,4 +32,4 @@ The [interactive study](visual_odometry_transforms.ipynb)  and tutorial covers t
 
 ##    
 
-<sub>Project is partially derived from the University Of Tornoto course "Visual Perception for Self-Driving Cars"</sub>
+<sub>Project is partially derived and motivated from a research suggestion in the University Of Tornoto course "Visual Perception for Self-Driving Cars"</sub>
