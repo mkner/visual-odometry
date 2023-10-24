@@ -16,7 +16,7 @@ Reconstruction of the transform between consecutive images consisting of a rotat
 A comparison of the trajectory results using EMD, PnP, and PnP-RANSAC
 with both distance filtered and unflitered feature matches between images is done with visual plots of the trajectories.
 
-This [interactive study](Visual_Odometry.ipynb) in the Jupyter notebook covers these areas:
+This [interactive study](Visual_Odometry.ipynb)  covers these areas:
 
 - Explore the image set, depth maps, and intrinsic camera parameters
 - Compare RGB and grayscale images
