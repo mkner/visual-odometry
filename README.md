@@ -1,7 +1,7 @@
 ### Visual Odometry Comparitive Transforms<br> For Path Localization in Autonomous Vehicles
 
 
-**A comparison of transformation reconstruction methods for optimal path estimates
+**A comparison of transformation reconstruction methods for optimal path<br> estimates
 using Feature Detection, Description, Matching and Trajectory Generation**
 
 
