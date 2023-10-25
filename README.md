@@ -6,7 +6,7 @@ using Feature Detection, Description, Matching and Trajectory Generation**
 
 
 
-#### Mike Knerr
+### Mike Knerr
 <br>
 
 This project estimates an autonomous vehicle trajectory using a sequence of images taken with a monocular camera mounted on a vehicle. The images are from a CARLA autonomous driving simulator that include both RGB and grayscale versions. Depth maps for each image are also utilized.
